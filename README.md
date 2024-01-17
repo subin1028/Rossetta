@@ -5,20 +5,6 @@
 - Next.js, Django, SQLite3, MediaPipe, Tensorflow, OpenCV
 <!-- - ✉️officialrossetta@gmail.com -->
 
-</br>
-
-**■프로젝트 수행 내용(본인)**
-- 플랫폼 내 전반적인 UI 구성
-- 로그인 / 회원가입 / 수어교육 / 수어실습 / 오답노트 / 마이페이지 구현 (Next.js / TypeScript)
-- Next.js Client API 연동
-- 수어실습 페이지 내 Webcam-MediaPipe 연동
-
-</br>
-
-**■초기 UI 설계**
-| **MainPage**  | **Learning Page** |
-| ------------- | ------------- |
-| <img src="https://github.com/subin1028/Rossetta/assets/76259186/71cb2ffe-0c9a-4738-a709-e7a49ce3afdc" width="auto" height="60%"> | <img src="https://github.com/subin1028/Rossetta/assets/76259186/4e6f2d69-2b92-4e1b-a697-a79d4dca3260" width="auto" height="60%"> |
 
 <br>
 
@@ -98,6 +84,20 @@
 
 ### [문의게시판 - 운영자 답변달기 ]
 ![게시글답변(운영자)](https://github.com/SuYoungSong/Rossetta/assets/80526924/193dd174-8888-4fe4-b23d-2272c86e6c79)
+
+<br>
+## 🔧개발 내용
+- 플랫폼 내 전반적인 UI 구성
+- 로그인 / 회원가입 / 수어교육 / 수어실습 / 오답노트 / 마이페이지 구현 (Next.js / TypeScript)
+- Next.js Client API 연동
+- 수어실습 페이지 내 Webcam-MediaPipe 연동
+
+</br>
+
+**■초기 UI 설계**
+| **MainPage**  | **Learning Page** |
+| ------------- | ------------- |
+| <img src="https://github.com/subin1028/Rossetta/assets/76259186/71cb2ffe-0c9a-4738-a709-e7a49ce3afdc" width="auto" height="60%"> | <img src="https://github.com/subin1028/Rossetta/assets/76259186/4e6f2d69-2b92-4e1b-a697-a79d4dca3260" width="auto" height="60%"> |
 
 
 <br>
