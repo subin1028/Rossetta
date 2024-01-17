@@ -15,6 +15,14 @@
 
 </br>
 
+**■초기 UI 설계**
+| MainPage  | Learning Page |
+| ------------- | ------------- |
+| <img src="https://github.com/subin1028/Rossetta/assets/76259186/71cb2ffe-0c9a-4738-a709-e7a49ce3afdc" width="auto" height="50%"> | <img src="https://github.com/subin1028/Rossetta/assets/76259186/4e6f2d69-2b92-4e1b-a697-a79d4dca3260" width="auto" height="50%"> |
+
+
+
+
 **■프로젝트 실행 방법**
  - Node.js 설치 후 client/my-app 경로에서 라이브러리 설치 ( 명령어: npm i )
  - 백엔드 서버 requirements.txt 설치하기
