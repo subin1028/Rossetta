@@ -16,11 +16,11 @@
 </br>
 
 **■초기 UI 설계**
-| MainPage  | Learning Page |
+| **MainPage**  | **Learning Page** |
 | ------------- | ------------- |
-| <img src="https://github.com/subin1028/Rossetta/assets/76259186/71cb2ffe-0c9a-4738-a709-e7a49ce3afdc" width="auto" height="50%"> | <img src="https://github.com/subin1028/Rossetta/assets/76259186/4e6f2d69-2b92-4e1b-a697-a79d4dca3260" width="auto" height="50%"> |
+| <img src="https://github.com/subin1028/Rossetta/assets/76259186/71cb2ffe-0c9a-4738-a709-e7a49ce3afdc" width="auto" height="60%"> | <img src="https://github.com/subin1028/Rossetta/assets/76259186/4e6f2d69-2b92-4e1b-a697-a79d4dca3260" width="auto" height="60%"> |
 
-
+<br>
 
 
 **■프로젝트 실행 방법**
