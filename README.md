@@ -9,7 +9,7 @@
 
 **■프로젝트 수행 내용(본인)**
 - 플랫폼 내 전반적인 UI 구성
-- 수어교육 / 수어실습 / 오답노트 / 마이페이지 구현 (Next.js / TypeScript)
+- 로그인 / 회원가입 / 수어교육 / 수어실습 / 오답노트 / 마이페이지 구현 (Next.js / TypeScript)
 - Next.js Client API 연동
 - 수어실습 페이지 내 Webcam-MediaPipe 연동
 
